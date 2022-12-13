@@ -10,7 +10,7 @@
         "bcrypt-nodejs": "0.0.3",
         "body-parser": "^1.19.0",
         "debug": "^4.2.0",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-jwt": "^6.0.0",
         "express-unless": "~0.0.0",
         "git-origin-url": "^0.3.0",
