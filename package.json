@@ -17,7 +17,7 @@
         "git-tag": "^0.2.0",
         "is-git-repo": "^0.1.2",
         "jade": "^1.9.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mailgun-js": "^0.22.0",
         "mongoose": "^5.9.25",
         "morgan": "^1.10.0",
